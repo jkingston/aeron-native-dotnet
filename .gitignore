@@ -1,0 +1,22 @@
+# Cloned reference repos
+aeron-c/
+aeron-dotnet/
+aeron-benchmarks/
+
+# .NET build output
+bin/
+obj/
+*.user
+*.suo
+
+# BenchmarkDotNet artifacts
+BenchmarkDotNet.Artifacts/
+
+# IDE
+.vs/
+.idea/
+*.swp
+
+# OS
+.DS_Store
+Thumbs.db
